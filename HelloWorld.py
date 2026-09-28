@@ -1,6 +1,5 @@
 print("Hello World!")
 print("Hello from Jenkins + GitHub!")
-print("Hello World!")
 print("Hello from Jenkins + GitHub!")
 print("Poll SCM test!")
 print("Hello from Jenkins + GitHub!")
