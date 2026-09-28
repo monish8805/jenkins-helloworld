@@ -15,3 +15,10 @@ print("Poll SCM test!")
 print("Poll SCM test!")
 print("Hello World!")
 print("GitHub Webhook is working!")
+print("Hello World!")
+print("Hello from Jenkins + GitHub!")
+
+print("Hello World!")
+print("Hello from Jenkins + GitHub!")
+
+raise Exception("ERROR: Intentional failure for Jenkins email notification test")
